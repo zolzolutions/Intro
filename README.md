@@ -1,4 +1,4 @@
-# Hola 👋 Hola, I'm Oscar
+#👋 Hola, I'm Oscar
 
 With 20 years in IT across support, hardware, and networking, I'm now diving into a new chapter—exploring C# and broadening my skills in software development.
 I'm a methodical learner exploring C#, Git, and investing. I love breaking complex tasks into manageable steps and building confidence through hands-on projects.
